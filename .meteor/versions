@@ -113,6 +113,7 @@ srp@1.0.3
 standard-app-packages@1.0.5
 stylus@1.0.7
 tap:i18n@1.5.1
+telescope-custom@1.0.0
 telescope:api@0.21.1
 telescope:comments@0.21.1
 telescope:core@0.21.1
