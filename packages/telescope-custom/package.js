@@ -5,5 +5,5 @@ Package.describe({
 });
 
 Package.onUse(function (api) {
-  api.addFiles('telescope-custom.css', 'client');
+  api.addFiles('custom.css', 'client');
 });
